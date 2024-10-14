@@ -1,6 +1,6 @@
 # COMPAS Introduction: HS24
 
-[🎦 Slides](https:https://docs.google.com/presentation/d/11K-ZmbSQV4eORQi8PcSNCRoB5rWKws7FQuZ8fY-n93Q/edit?usp=sharing)
+[🎦 Slides](https://docs.google.com/presentation/d/11K-ZmbSQV4eORQi8PcSNCRoB5rWKws7FQuZ8fY-n93Q/edit?usp=sharing)
 
 ## Installation
 
