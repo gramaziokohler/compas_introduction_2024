@@ -4,3 +4,4 @@ say_hi()
 
 print("Bye from the example_script module!")
 print("Done")
+print("This is a change done by a different person!")
